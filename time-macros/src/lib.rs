@@ -1,3 +1,6 @@
+#![feature(proc_macro_span)]
+#![feature(precise_capturing)]
+#![feature(let_chains)]
 #![allow(
     clippy::missing_const_for_fn,
     clippy::std_instead_of_core,
