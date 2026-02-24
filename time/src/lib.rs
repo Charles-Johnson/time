@@ -1,3 +1,16 @@
+#![feature(const_intrinsic_copy)]
+#![feature(const_mut_refs)]
+#![feature(const_option)]
+#![feature(const_size_of_val)]
+#![feature(const_mut_refs)]
+#![feature(const_refs_to_static)]
+#![feature(const_fn_floating_point_arithmetic)]
+#![feature(const_float_classify)]
+#![feature(const_float_bits_conv)]
+#![feature(integer_sign_cast)]
+#![feature(precise_capturing)]
+#![feature(raw_ref_op)]
+#![feature(let_chains)]
 //! # Feature flags
 //!
 //! This crate exposes a number of features. These can be enabled or disabled as shown
