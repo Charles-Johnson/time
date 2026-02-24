@@ -1,5 +1,4 @@
 #![feature(const_intrinsic_copy)]
-#![feature(const_mut_refs)]
 #![feature(const_option)]
 #![feature(const_size_of_val)]
 #![feature(const_mut_refs)]
